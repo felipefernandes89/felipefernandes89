@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Felipe!</h1>
 
 <p align="center">
-  Estudante de Engenharia de Produção (UNISUAM) e Ciências Matemáticas e da Terra (UFRJ) <br/>
+  Estudante de Engenharia de Produção (UNISUAM) e Ciências Matemáticas e da Terra com ênfase em análise de dados (UFRJ) <br/>
   Apaixonado por tecnologia, análise de dados e desenvolvimento de soluções inteligentes 🚀<br/>
   Atualmente me aperfeiçoando em AutoCAD, Power BI e Programação em C.
 </p>
@@ -12,7 +12,7 @@
 
 <ul>
   <li>🎓 Atualmente cursando Engenharia de Produção - UNISUAM</li>
-  <li>🎓 Estudante de Ciências Matemáticas e da Terra - UFRJ</li>
+  <li>🎓 Estudante de Ciências Matemáticas e da Terra com ênfase em análise de dados - UFRJ</li>
   <li>🧭 Em busca do primeiro emprego / estágio</li>
 </ul>
 
