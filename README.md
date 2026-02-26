@@ -3,7 +3,7 @@
 <p align="center">
   Estudante de Engenharia de Produção (UNISUAM) e Ciências Matemáticas e da Terra com ênfase em análise de dados (UFRJ) <br/>
   Apaixonado por tecnologia, análise de dados e desenvolvimento de soluções inteligentes 🚀<br/>
-  Atualmente me aperfeiçoando em AutoCAD, Power BI e Programação em C.
+  Atualmente me aperfeiçoando em AutoCAD, Power BI e Programação em C e Power Automate
 </p>
 
 ---
